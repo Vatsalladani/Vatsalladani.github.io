@@ -27,7 +27,7 @@ https://vatsalladani.github.io
 
 ## Project Structure
 
-```
+```text
 portfolio-website/
 │
 ├── index.html
@@ -38,13 +38,10 @@ portfolio-website/
 │   ├── certificates/
 │   └── resume/
 ├── README.md
-├── LICENSE
-└── .gitignore
+├── .gitignore
 ```
 
 ## Getting Started
-
-Clone the repository
 
 ```bash
 git clone https://github.com/Vatsalladani/Vatsalladani.github.io.git
@@ -52,27 +49,13 @@ git clone https://github.com/Vatsalladani/Vatsalladani.github.io.git
 
 Open `index.html` in your browser.
 
-## Future Improvements
-
-- Blog Section
-- More Projects
-- Contact Form Backend
-- Dark Theme Improvements
-
 ## Author
 
-Vatsal Ladani
+**Vatsal Ladani**
 
-M.Sc. Information Technology
+- M.Sc. Information Technology Student
+- Aspiring Software Engineer
 
-Aspiring Software Engineer
+GitHub: https://github.com/Vatsalladani
 
-GitHub:
-https://github.com/Vatsalladani
-
-LinkedIn:
-https://linkedin.com/in/vatsalladani
-
----
-
-If you found this project useful, consider giving it a ⭐.
+LinkedIn: https://linkedin.com/in/vatsalladani
