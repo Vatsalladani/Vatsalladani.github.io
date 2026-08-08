@@ -416,56 +416,72 @@
         body.dark .section-title p {
             color: #cbd5e1;
         }
+/* About */
+.about-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
+    align-items: center;
+}
 
-        /* About */
-        .about-content {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 50px;
-            align-items: center;
-        }
+.about-text h3 {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+}
 
-        .about-text h3 {
-            font-size: 1.8rem;
-            margin-bottom: 20px;
-        }
+.about-text p {
+    margin-bottom: 15px;
+    line-height: 1.6;
+}
 
-        .about-text p {
-            margin-bottom: 15px;
-            line-height: 1.6;
-        }
+.about-info {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+    margin-top: 30px;
+}
 
-        .about-info {
-            display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            gap: 15px;
-            margin-top: 30px;
-        }
+.info-item {
+    display: flex;
+    align-items: center;
+}
 
-        .info-item {
-            display: flex;
-            align-items: center;
-        }
+.info-item i {
+    font-size: 1.2rem;
+    color: var(--primary);
+    margin-right: 15px;
+    width: 30px;
+}
 
-        .info-item i {
-            font-size: 1.2rem;
-            color: var(--primary);
-            margin-right: 15px;
-            width: 30px;
-        }
+/* Keep email link visually identical to normal text */
+.info-item p a {
+    color: inherit;
+    text-decoration: none;
+    font: inherit;
+    line-height: inherit;
+    transition: color 0.2s ease, text-decoration 0.2s ease;
+}
 
-        .about-image {
-            border-radius: 10px;
-            overflow: hidden;
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-        }
+.info-item p {
+    margin: 0;
+}
 
-        .about-image img {
-            width: 100%;
-            height: auto;
-            display: block;
-        }
+.info-item p a:hover {
+    color: var(--primary);
+    text-decoration: underline;
+}
 
+.about-image {
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.about-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
         /* Skills */
         .skills-container {
             display: grid;
@@ -1327,7 +1343,16 @@ body.dark .certification-content p {
         body.dark .contact-details p {
             color: #cbd5e1;
         }
+.email-link {
+    color: inherit;
+    text-decoration: none;
+    transition: color 0.2s ease, text-decoration 0.2s ease;
+}
 
+.email-link:hover {
+    color: var(--primary);
+    text-decoration: underline;
+}
         .social-links {
             display: flex;
             margin-top: 20px;
