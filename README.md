@@ -1,61 +1,111 @@
-# 💼 Vatsal Ladani - Personal Portfolio
+# 💼 Vatsal Ladani — Personal Portfolio
 
-A responsive personal portfolio website built to showcase my projects, technical skills, certifications, education, and resume.
+> A responsive personal portfolio website showcasing my projects, technical skills, certifications, education, and resume.
 
-## Live Website
+## 🌐 Live Website
 
-https://vatsalladani.github.io
+**[vatsalladani.me](https://vatsalladani.me)**
 
-## Features
+**[GitHub Pages](https://vatsalladani.github.io)**
 
-- Responsive Design
-- Dark / Light Mode
-- Project Showcase
-- Certification Section
-- Resume Preview & Download
-- Contact Information
-- Smooth Animations
+---
 
-## Tech Stack
+## 📌 About
+
+This portfolio represents my current learning journey as an **M.Sc. Information Technology student** and **Aspiring Software Engineer**.
+
+It showcases my projects, technical skills, certifications, academic background, resume, and contact information.
+
+Built using **HTML, CSS, and JavaScript**.
+
+---
+
+## ✨ Features
+
+- Responsive design
+- Dark / Light mode
+- Technical skills showcase
+- Project carousel
+- Certification carousel
+- Certificate PDF viewing
+- Academic journey
+- Resume preview and download
+- Contact form
+- GitHub and LinkedIn integration
+- Smooth animations
+- Mobile-friendly layout
+
+---
+
+## 🛠️ Tech Stack
 
 - HTML5
 - CSS3
 - JavaScript
 - Font Awesome
-- AOS Animation
+- AOS (Animate On Scroll)
 - Swiper.js
 
-## Project Structure
+---
+
+## 📂 Project Structure
 
 ```text
-portfolio-website/
+Vatsalladani.github.io/
 │
 ├── index.html
+│
 ├── assets/
 │   ├── css/
 │   ├── js/
 │   ├── images/
 │   ├── certificates/
 │   └── resume/
-├── README.md
+│
 ├── .gitignore
+├── CNAME
+├── LICENSE
+└── README.md
 ```
 
-## Getting Started
+## 🚀 Getting Started
 
-```bash
-git clone https://github.com/Vatsalladani/Vatsalladani.github.io.git
-```
+Clone the Repository
+git clone https\://github.com/Vatsalladani/Vatsalladani.github.io.git
+Navigate to the Project
+cd Vatsalladani.github.io
+Run Locally
 
-Open `index.html` in your browser.
+No backend setup or package installation is required.
 
-## Author
+Open index.html directly in your browser, or use the Live Server extension in VS Code.
 
-**Vatsal Ladani**
+📄 Resume & Certifications
 
-- M.Sc. Information Technology Student
-- Aspiring Software Engineer
+The portfolio includes:
 
-GitHub: https://github.com/Vatsalladani
+Resume preview and download
+Certification showcase
+Certificate PDF viewing
+📬 Contact
 
-LinkedIn: https://linkedin.com/in/vatsalladani
+Email: [vatsalladani.it@gmail.com](mailto\:vatsalladani.it@gmail.com)
+
+Location: Ahmedabad, India
+
+🔗 Connect
+GitHub: Vatsal Ladani
+LinkedIn: Vatsal Ladani
+👨‍💻 Author
+
+Vatsal Ladani
+
+M.Sc. Information Technology Student · Aspiring Software Engineer
+
+Interested in Backend Development and currently strengthening my skills through project-based learning.
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+See the [LICENSE](./LICENSE) file for details.
