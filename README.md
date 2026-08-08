@@ -6,7 +6,6 @@
 
 **[vatsalladani.me](https://vatsalladani.me)**
 
-**[GitHub Pages](https://vatsalladani.github.io)**
 
 ---
 
