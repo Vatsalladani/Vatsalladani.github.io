@@ -6,7 +6,6 @@
 
 **[vatsalladani.me](https://vatsalladani.me)**
 
-
 ---
 
 ## 📌 About
@@ -67,41 +66,64 @@ Vatsalladani.github.io/
 └── README.md
 ```
 
+---
+
 ## 🚀 Getting Started
 
-Clone the Repository
-git clone https\://github.com/Vatsalladani/Vatsalladani.github.io.git
-Navigate to the Project
+### Clone the Repository
+
+```bash
+git clone https://github.com/Vatsalladani/Vatsalladani.github.io.git
+```
+
+### Navigate to the Project
+
+```bash
 cd Vatsalladani.github.io
-Run Locally
+```
+
+### Run Locally
 
 No backend setup or package installation is required.
 
-Open index.html directly in your browser, or use the Live Server extension in VS Code.
+Open `index.html` directly in your browser, or use the **Live Server** extension in VS Code.
 
-📄 Resume & Certifications
+---
+
+## 📄 Resume & Certifications
 
 The portfolio includes:
 
-Resume preview and download
-Certification showcase
-Certificate PDF viewing
-📬 Contact
+- Resume preview and download
+- Certification showcase
+- Certificate PDF viewing
 
-Email: [vatsalladani.it@gmail.com](mailto\:vatsalladani.it@gmail.com)
+---
 
-Location: Ahmedabad, India
+## 📬 Contact
 
-🔗 Connect
-GitHub: Vatsal Ladani
-LinkedIn: Vatsal Ladani
-👨‍💻 Author
+**Email:** [vatsalladani.it@gmail.com](mailto:vatsalladani.it@gmail.com)
 
-Vatsal Ladani
+**Location:** Ahmedabad, India
+
+---
+
+## 🔗 Connect
+
+- **GitHub:** [Vatsal Ladani](https://github.com/Vatsalladani)
+- **LinkedIn:** [Vatsal Ladani](https://linkedin.com/in/vatsalladani)
+
+---
+
+## 👨‍💻 Author
+
+**Vatsal Ladani**
 
 M.Sc. Information Technology Student · Aspiring Software Engineer
 
-Interested in Backend Development and currently strengthening my skills through project-based learning.
+Interested in **Backend Development** and currently strengthening my skills through project-based learning.
+
+---
 
 ## 📜 License
 
