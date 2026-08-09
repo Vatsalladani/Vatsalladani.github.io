@@ -630,16 +630,18 @@
             flex-wrap: nowrap;
         }
 
-        .swiper-slide {
-            flex-shrink: 0;
-            width: auto;
-        }
+       .swiper-slide {
+    flex-shrink: 0;
+    width: auto;
+    height: auto;
+    display: flex;
+}
 
-        .swiper-slide .project-card {
-            width: 100%;
-            max-width: 350px;
-            margin: 0 auto;
-        }
+.swiper-slide .project-card {
+    width: 100%;
+    max-width: 350px;
+    margin: 0 auto;
+}
 
         /* Project Card - Improved */
         .project-card {
