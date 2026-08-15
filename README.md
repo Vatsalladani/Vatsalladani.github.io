@@ -40,9 +40,19 @@ Built using **HTML, CSS, and JavaScript**.
 - HTML5
 - CSS3
 - JavaScript
-- Font Awesome
-- AOS (Animate On Scroll)
-- Swiper.js
+
+---
+
+## 🧩 Libraries & Tools
+
+- **Font Awesome** — Used for UI and social icons, including GitHub, LinkedIn, email, navigation, and feature icons.
+- **AOS (Animate On Scroll)** — Used for scroll-based reveal animations across portfolio sections.
+- **Swiper.js** — Used for interactive project and certification carousels.
+
+**Resources & Services**
+
+- **Google Fonts (Inter)** — Primary typeface used across the site.
+- **Formspree** — Handles contact form submissions.
 
 ---
 
